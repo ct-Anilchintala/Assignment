@@ -24,3 +24,12 @@
     flex: 70%;
     text-align: left;
 }
+.subhead1 {
+    background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/a4b33886128681.5d909dad47ded.jpg);
+    font-weight: 1000;
+    padding-left: 5PX;
+}
+.subhead2 {
+    background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/a4b33886128681.5d909dad47ded.jpg);
+    padding-left: 5px;
+}
